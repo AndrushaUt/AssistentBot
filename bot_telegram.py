@@ -14,7 +14,6 @@ async def on_startup(_):
 
 @dp.message_handler(commands="start")
 async def cm_start(message: types.Message):
-    print(message.from_user.id, type(message.from_user.id))
     await message.reply("Ты кто?", reply_markup=kb_start)
 
 
