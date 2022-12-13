@@ -1,6 +1,9 @@
 # AssistentBot
+<img src="https://github.com/AndrushaUt/AssistentBot/blob/main/media/photo.png" width="300" height="400">
 
-![Alt text](https://github.com/Dima-Gri/Calculator/blob/main/ScreenShot/application's%20screen.png)
+
+# Как найти нашего бота?
+  https://t.me/AssistantHSEBot
 
 # Что умеет наш бот?
 ## У него есть следующие функции:
@@ -27,3 +30,5 @@
 # Дальнейшее развитие бота
   - В будущем можно сделать так, чтобы при добавлении ДЗ, они отображались в том числе в дедлайнах студента
   - Уведомление за определенное время о начале пары и о истечении дедлайна
+  
+
